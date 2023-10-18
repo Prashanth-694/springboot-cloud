@@ -1,0 +1,19 @@
+
+server:
+  port: 9002
+spring:
+  application:
+      name: PAYMENT-SERVICE
+#  datasource:
+#    url: jdbc:oracle:thin:@//localhost:1521/orcl
+#    username: oracle
+#    password: sarasu10
+#    driver-class-name: oracle.jdbc.OracleDriver
+    
+    
+
+      
+      
+  
+
+   
